@@ -1,0 +1,5 @@
+export const WEEK_DATE = 'week_date'
+export const MONTH_DATE = 'month_date'
+export const QUARTER_DATE = 'quarter_date'
+export const YEAR_DATE = 'year_date'
+export const MAX_DATE = 'max_date'
